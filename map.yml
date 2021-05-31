@@ -1,0 +1,5 @@
+map_name: ultimate_world
+games:
+- {game_name: Ultimate World, file_name: UW_1.7.xml}
+- {game_name: 'Ultimate World: Revised', file_name: Ultimate_World_-_Revised.xml}
+- {game_name: Ultimate World v3 Rules, file_name: UW_1.7_v3.xml}
